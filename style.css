@@ -1,7 +1,23 @@
 body {
-    background-color: black;
+    background-image:url('./img/new york.jpeg');
+    background-size: cover;
 }
 
 h1 {
-    color:blueviolet
+    font-size: 200px;
+    color:white;
+    font-family:'Times New Roman', Times, serif ;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    font-family:'Times New Roman', Times, serif ;
+}
+
+#btn {
+    font-size: 50px;
+    background-color:blue;
+    margin: 20px;
+    padding: 20px;
 }
