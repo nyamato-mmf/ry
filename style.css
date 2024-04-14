@@ -15,7 +15,7 @@ a {
     font-family:'Times New Roman', Times, serif ;
 }
 
-#btn {
+.btn {
     font-size: 50px;
     background-color:blue;
     margin: 20px;
